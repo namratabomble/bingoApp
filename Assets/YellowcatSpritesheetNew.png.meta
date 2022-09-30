@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 835b365e5fffa9640889bb20f80573c8
+guid: 7fdb6f482984dd649ba7af9ac02a2467
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -165,13 +165,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: YellowcatSpriteSheet_0
+      name: YellowcatSpritesheetNew_0
       rect:
         serializedVersion: 2
-        x: 204
-        y: 314
-        width: 201
-        height: 190
+        x: 0
+        y: 283
+        width: 625
+        height: 283
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 074fa9f6886aa1147b8a73b8de9f065a
-      internalID: 354801870
+      spriteID: cc86a47e573a0d744829a94116d6b0f7
+      internalID: -453292228
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: YellowcatSpriteSheet_1
+      name: YellowcatSpritesheetNew_1
       rect:
         serializedVersion: 2
-        x: 845
-        y: 315
-        width: 199
-        height: 203
+        x: 625
+        y: 283
+        width: 625
+        height: 283
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 172ce984f29fdcf4e8caa1a3a8839b70
-      internalID: 1236037278
+      spriteID: d7a724e792f489246b5119bc1b26d6c1
+      internalID: 27984511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: YellowcatSpriteSheet_2
+      name: YellowcatSpritesheetNew_2
       rect:
         serializedVersion: 2
-        x: 1463
-        y: 315
-        width: 211
-        height: 217
+        x: 1250
+        y: 283
+        width: 625
+        height: 283
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fd0643267a851446a1036fa793b2029
-      internalID: -218503614
+      spriteID: 9936746352da9c4478887bf259652eef
+      internalID: -824104402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: YellowcatSpriteSheet_3
+      name: YellowcatSpritesheetNew_3
       rect:
         serializedVersion: 2
-        x: 2079
-        y: 329
-        width: 240
-        height: 200
+        x: 1875
+        y: 283
+        width: 625
+        height: 283
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,20 +242,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41ce130b4525b57448b6ec0efa8a5b48
-      internalID: -1300209877
+      spriteID: 7fea514c9c2f02e44aca039a78f7a2de
+      internalID: 2010525153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: YellowcatSpriteSheet_4
+      name: YellowcatSpritesheetNew_4
       rect:
         serializedVersion: 2
-        x: 2697
-        y: 323
-        width: 224
-        height: 198
+        x: 2500
+        y: 283
+        width: 625
+        height: 283
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,20 +263,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f36df82001d36149a01f6213e7b3264
-      internalID: -544456429
+      spriteID: 608532b3b5aaf67419ba6bf3f357075d
+      internalID: -147889857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: YellowcatSpriteSheet_5
+      name: YellowcatSpritesheetNew_5
       rect:
         serializedVersion: 2
-        x: 195
-        y: 38
-        width: 205
-        height: 194
+        x: 0
+        y: 0
+        width: 625
+        height: 283
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,20 +284,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ef4b67555c42854abe97e227aa904b1
-      internalID: -387818283
+      spriteID: ee8ced1d8f4ff9c45b81750ed0fe3ef9
+      internalID: -1341384246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: YellowcatSpriteSheet_6
+      name: YellowcatSpritesheetNew_6
       rect:
         serializedVersion: 2
-        x: 834
-        y: 31
-        width: 201
-        height: 221
+        x: 625
+        y: 0
+        width: 625
+        height: 283
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,20 +305,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a39e864c728c284cb4eb76043a92b2c
-      internalID: -1204545588
+      spriteID: 7d210acfe2174ff489cd0c1aa46724de
+      internalID: 1717909519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: YellowcatSpriteSheet_7
+      name: YellowcatSpritesheetNew_7
       rect:
         serializedVersion: 2
-        x: 1457
-        y: 33
-        width: 216
-        height: 230
+        x: 1250
+        y: 0
+        width: 625
+        height: 283
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,20 +326,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c69c5c64f8371514a97247bc5fb3cb45
-      internalID: 273873052
+      spriteID: 569b2ca177059b14f8e8d61b291a43a9
+      internalID: 1914276367
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: YellowcatSpriteSheet_8
+      name: YellowcatSpritesheetNew_8
       rect:
         serializedVersion: 2
-        x: 2074
-        y: 51
-        width: 245
-        height: 209
+        x: 1875
+        y: 0
+        width: 625
+        height: 283
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,20 +347,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb2cb92623e7bd04d974f2c72604d312
-      internalID: -402226521
+      spriteID: 1074bd2cff6da4942a70cd2ce0f7ca07
+      internalID: -322376378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: YellowcatSpriteSheet_9
+      name: YellowcatSpritesheetNew_9
       rect:
         serializedVersion: 2
-        x: 2700
-        y: 27
-        width: 245
-        height: 199
+        x: 2500
+        y: 0
+        width: 625
+        height: 283
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,8 +368,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e918b27f46273642a2e59280f7fc6ba
-      internalID: -2125170616
+      spriteID: ac3240975b52e644796cf4352c33de7f
+      internalID: -2075759570
       vertices: []
       indices: 
       edges: []
@@ -377,7 +377,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b5126d5eaebc462418570a4c71f7ac5d
+    spriteID: a2b9e3d6c3fa11d45b6f219efd7a1bc6
     internalID: 0
     vertices: []
     indices: 
@@ -385,16 +385,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      YellowcatSpriteSheet_9: -2125170616
-      YellowcatSpriteSheet_3: -1300209877
-      YellowcatSpriteSheet_1: 1236037278
-      YellowcatSpriteSheet_8: -402226521
-      YellowcatSpriteSheet_6: -1204545588
-      YellowcatSpriteSheet_0: 354801870
-      YellowcatSpriteSheet_2: -218503614
-      YellowcatSpriteSheet_4: -544456429
-      YellowcatSpriteSheet_7: 273873052
-      YellowcatSpriteSheet_5: -387818283
+      YellowcatSpritesheetNew_3: 2010525153
+      YellowcatSpritesheetNew_9: -2075759570
+      YellowcatSpritesheetNew_6: 1717909519
+      YellowcatSpritesheetNew_8: -322376378
+      YellowcatSpritesheetNew_2: -824104402
+      YellowcatSpritesheetNew_5: -1341384246
+      YellowcatSpritesheetNew_0: -453292228
+      YellowcatSpritesheetNew_7: 1914276367
+      YellowcatSpritesheetNew_1: 27984511
+      YellowcatSpritesheetNew_4: -147889857
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
